@@ -1,7 +1,7 @@
 # Extended-basis-encoding-and-amplitude-encoding-algorithms-for-Qiskit
 These are implementations for quantum basis encoding and amplitude encoding using Qiskit. 
 
-1.  Download the individual .inpy files from the 'Release' on the right.
+1.  Download the individual .ipynb files from the 'Release' on the right. Just click on the files to start downloading.
 
 2.  Run these files as a notebook file in jupyter notebook after setting up Qiskit. 
     To get results for more than 5 qubits on simulated systems, comment out all references to job3 and counts3.
